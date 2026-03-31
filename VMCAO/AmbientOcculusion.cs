@@ -19,7 +19,7 @@ namespace VMCAO
     Author: "snow",
     Description: "VMCにAmbientOcclusionを追加する",
     AuthorURL: "https://twitter.com/snow_mil",
-    PluginURL: "https://github.com/Snow1226/")]
+    PluginURL: "https://github.com/Snow1226/VMCAO")]
     public class AmbientOcculusion : MonoBehaviour
     {
         private PostProcessVolume _ppVolume;
