@@ -17,7 +17,7 @@ namespace VMCAO
     Name: "VMC Ambient Occulusion",
     Version: "0.0.1",
     Author: "snow",
-    Description: "VMCにAmbientOcculusionを追加する",
+    Description: "VMCにAmbientOcclusionを追加する",
     AuthorURL: "https://twitter.com/snow_mil",
     PluginURL: "https://github.com/Snow1226/")]
     public class AmbientOcculusion : MonoBehaviour
